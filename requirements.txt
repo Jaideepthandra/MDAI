@@ -1,2 +1,7 @@
+streamlit
 streamlit-option-menu
-sklearn
+scikit-learn
+pandas
+numpy
+matplotlib
+pickle
